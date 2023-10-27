@@ -1,0 +1,5 @@
+﻿  Snakemain.cpp
+C:\Users\罗文兴\source\repos\Snake1.0\Snake1.0\Snakemain.cpp(139,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\罗文兴\source\repos\Snake1.0\Snake1.0\Snakemain.cpp(158,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\罗文兴\source\repos\Snake1.0\Snake1.0\Snakemain.cpp(360,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Snake1.0.vcxproj -> C:\Users\罗文兴\source\repos\Snake1.0\x64\Debug\Snake1.0.exe
